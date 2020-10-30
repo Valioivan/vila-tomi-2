@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8">
+  <title style="font-style: oblique; font-family: Time new roman">Luxury villa Tomi</title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+  <meta content="" name="keywords">
+  <meta content="" name="description">
+
+  <!-- Favicons -->
+  <link style="width: 100px" href="img/favicon_gold.png" rel="icon">
+  <link style="width: 100px" href="img/favicon_gold.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Raleway:300,400,500,700,800" rel="stylesheet">
+
+  <!-- Bootstrap CSS File -->
+  <link href="lib/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Libraries CSS Files -->
+  <link href="lib/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  <link href="lib/animate/animate.min.css" rel="stylesheet">
+  <link href="lib/venobox/venobox.css" rel="stylesheet">
+  <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+  <!-- Main Stylesheet File -->
+  <link href="css/style_soba_1.css" rel="stylesheet">
+
+</head>
+<body>
+
+<!--==========================
+    Header
+  ============================-->
+  <header id="header">
+    <div class="container">
+
+      <div id="logo" class="pull-left">
+        <!-- Uncomment below if you prefer to use a text logo -->
+        <!-- <h1><a href="#main">C<span>o</span>nf</a></h1>-->
+        <a href="englisch.html" class="scrollto"><img style="margin-left: 30px;
+        height: 50px;" src="img/home2.png" alt="" title=""></a>
+      </div>
+
+      
+      <nav id="nav-menu-container">
+        <ul class="nav-menu">
+          <li class="menu-active"><a href="soba_1_eng.html">Room 1</a></li>
+          <li><a href="soba_2_eng.html">Room 2</a></li>
+          <li><a href="soba_3_eng.html">Room 3</a></li>
+          <li><a href="soba_4_eng.html">Room 4</a></li>
+          <li><a href="Soba_5_eng.html">Room 5</a></li>
+          <li><a href="Dnevna_soba_eng.html">Living room</a></li>
+          <li><a href="kuhinja_eng.html">Kitchen and dinig room</a></li>
+          <li><a href="teretana_eng.html">Gym</a></li>
+            
+          <li><a href="bazen_eng.html">Garten, pool and roof terace</a></li>
+            
+         
+           
+        </ul>
+      </nav>
+       
+    </div>
+  </header><!-- #header -->
+
+  <!--==========================
+    Intro Section
+  ============================-->
+  <!--
+  <section id="intro">
+    <div class="intro-container wow fadeIn">
+      <img class="mb-4 pb-0" style="height: 200px" src="img/Logo_transparent_2.png">
+    
+    </div>
+  </section>
+
+  <main id="main">
+
+  -->
+
+
+
+
+
+
+
+    <!--==========================
+      About Section
+    ============================-->
+    <section id="about">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-12">
+
+<section id="venue" class="wow fadeInUp">
+
+
+
+  <!--===============================
+    =====CAROUSSEL
+===================================-->
+
+<!--Carousel Wrapper-->
+<div id="carousel-example-2" class="carousel slide carousel-fade" data-ride="carousel">
+  <!--Indicators-->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-2" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-2" data-slide-to="1"></li>
+    <li data-target="#carousel-example-2" data-slide-to="2"></li>
+    <li data-target="#carousel-example-2" data-slide-to="3"></li>
+    <li data-target="#carousel-example-2" data-slide-to="4"></li>
+    <li data-target="#carousel-example-2" data-slide-to="5"></li>
+    <li data-target="#carousel-example-2" data-slide-to="6"></li>
+    <li data-target="#carousel-example-2" data-slide-to="7"></li>
+    <li data-target="#carousel-example-2" data-slide-to="8"></li>
+    <li data-target="#carousel-example-2" data-slide-to="9"></li>
+    <li data-target="#carousel-example-2" data-slide-to="10"></li>
+    <li data-target="#carousel-example-2" data-slide-to="11"></li>
+   
+  </ol>
+  <!--/.Indicators-->
+  <!--Slides-->
+  <div class="carousel-inner" role="listbox">
+    <div class="carousel-item active">
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/1.jpg"
+          alt="First slide">
+        <div class="mask rgba-black-light"></div>
+      </div>
+      <div class="carousel-caption">
+       
+        
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/2.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+        
+        
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/3.jpg"
+          alt="Third slide">
+        <div class="mask rgba-black-slight"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/4.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/5.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/6.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+        
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/7.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+    <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic2/okucnica_bazen/8.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+     <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic/1.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+     <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic/4.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+     <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic/10.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+     <div class="carousel-item">
+      <!--Mask color-->
+      <div class="view">
+        <img class="d-block w-100" src="img/pro_pic/22.jpg"
+          alt="Second slide">
+        <div class="mask rgba-black-strong"></div>
+      </div>
+      <div class="carousel-caption">
+       
+      </div>
+    </div>
+   
+
+  </div>
+  <!--/.Slides-->
+  <!--Controls-->
+  <a class="carousel-control-prev" href="#carousel-example-2" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carousel-example-2" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+  <!--/.Controls-->
+</div>
+<!--/.Carousel Wrapper-->
+
+
+
+
+      
+      <br>
+      <br>
+      <br>
+
+      
+
+
+             
+
+    <!--==========================
+      Contact Section
+    ============================-->
+    
+
+  </main>
+
+
+  <!--==========================
+    Footer
+  ============================-->
+
+ <footer id="footer">
+       <div class="footer-top">
+      <div class="container">
+        <div class="row">
+
+          <div class="col-lg-2 col-md-6 footer-info">
+            <img style="height: 70px;" src="img/logo_transparent.png" alt="TheEvenet">
+            <p style="text-align: left;">Sukladno članku 6. Točka 3. Zakona o pružanju usluga u turizmu obavještavamo potrošače da eventualno nezadovoljstvo za pruženu uslugu mogu iskazati prigovorom u pisanoj formi koji možete poslati putem elektroničke pošte  na adresu luxuryvillatomi@gmail.com</p>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful links</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="http://taxi-podstrana.eu/en/">Taxi Podstrana</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://pp-biokovo.hr/en/20/home">Biokovo nature park</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="http://www.np-krka.hr/en/">National park Krka</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://goo.gl/maps/nbcnuvmSrgUEGgBw7">Post offfice Podstrana</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://motointegrator.com/hr/en/carworkshops/podstrana">Car workshops</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://visitsplit.com/en/1/welcome-to-split">Tourist Board of Split</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.visitomis.hr/en/about-omis">Tourist Board of Omiš</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.visittrogir.hr/">Tourist Board of Trogir</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-links">
+            <h4>Useful links</h4>
+            <ul>
+              <li><i class="fa fa-angle-right"></i> <a href="https://vlada.gov.hr/need-emergency-help/16125">Emergency call 112</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://visitsplit.com/en/232/hospital-firule">Hospital Split</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.hak.hr/en#traffic-flow-and-road-conditions">Croatian auto club and traffic info</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://primapharme.hr/placemarks/podstrana/">Pharmacy 021/330-475, A.Kaštelančića 1 21312 Podstrana</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="http://www.promet-split.hr/en/bus-line-60">Public transport </a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="https://www.jadrolinija.hr/en/ferry-croatia">Jadrolinija</a></li>
+              <li><i class="fa fa-angle-right"></i> <a href="http://www.split-airport.hr/index.php?lang=en">Split Airport</a></li>
+            </ul>
+          </div>
+
+          <div class="col-lg-3 col-md-6 footer-contact">
+            <div class="col-lg-3 col-md-6 footer-contact">
+        <iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FVilla-Tomi-100327258447490&tabs=timeline&width=340&height=500&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId" width="340" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+           <!--
+            <div class="social-links">
+              <a href="#" class="twitter"><i class="fa fa-twitter"></i></a>
+              <a href="#" class="facebook"><i class="fa fa-facebook"></i></a>
+              <a href="#" class="instagram"><i class="fa fa-instagram"></i></a>
+              <a href="#" class="google-plus"><i class="fa fa-google-plus"></i></a>
+              <a href="#" class="linkedin"><i class="fa fa-linkedin"></i></a>
+            </div>
+          -->
+
+          </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+  
+  </footer> 
+  <!-- #footer -->
+
+  <a href="#" class="back-to-top"><i class="fa fa-angle-up"></i></a>
+
+  <!-- JavaScript Libraries -->
+  <script src="lib/jquery/jquery.min.js"></script>
+  <script src="lib/jquery/jquery-migrate.min.js"></script>
+  <script src="lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="lib/easing/easing.min.js"></script>
+  <script src="lib/superfish/hoverIntent.js"></script>
+  <script src="lib/superfish/superfish.min.js"></script>
+  <script src="lib/wow/wow.min.js"></script>
+  <script src="lib/venobox/venobox.min.js"></script>
+  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+
+  <!-- Contact Form JavaScript File -->
+  <script src="contactform/contactform.js"></script>
+
+  <!-- Template Main Javascript File -->
+  <script src="js/main.js"></script>
+
+
+
+
+<!--
+<img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;" src="img/baustelle.jpg">
+-->
+</body>
+</html>
